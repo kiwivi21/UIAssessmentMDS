@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_MainMenuBlueprint.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_OptionsBlueprint.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/Pixel_Font.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/Pixel.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_LongButtonWidget.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/ButtonClicked.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/ButtonHover.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/ButtonNormal.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/MainMenu.umap",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_TitleBlueprint.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/ScreensChronoTrigger/First_Screen.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/PixelButton_Normal.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/Button_Normal.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/Button_Hover.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/Button_Clicked.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_LoadGameBlueprint.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/ScreensChronoTrigger/In_Game.uasset",
+				"C:/Users/OEM/Documents/Unreal Projects/UIClass_01/Content/UI/UI_Save01Blueprint.uasset"
+			]
+		}
+	]
+}
